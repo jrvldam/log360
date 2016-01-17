@@ -25,9 +25,17 @@ h6 {
     font-size: 14px; 
 }
 
+p.lead {
+    text-indent: 10px;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
+}
+
+ul {
+  list-style-type: circle;
 }
 
 .intro-header {
