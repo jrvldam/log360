@@ -1,0 +1,24 @@
+{
+  "empresa": {
+    "title": "El espiritu de Logística 360 srl",
+    "text": "Somos una empresa que nace con el objetivo de dar soluciones integrales al momento de realizar mudanzas de casas y oficinas, de forma segura, confiable y puntual.~ Trabajamos para que cada mudanza sea  un nuevo inicio de nuestros clientes, que cada destino al que los llevamos los llene de energía, o mínimamente sea una nueva oportunidad de reorganizar y decorar su casa. ~Bajo este objetivo nos propusimos buscar material que facilite el acomodo y distribución del menaje,  para realizar un traslado rápido y fácil.",
+    "image": ""
+  },
+  "compromiso": {
+    "title": "Compromiso de la empresa",
+    "text": "Nuestro personal capacitado, se esmerará en dar un buen trato a nuestros clientes y sus pertenecías, tenemos como objetivo dejar  cada caja en el área que indique nuestro cliente, instalar los electrodomésticos básicos para que usted pueda dormir la primera noche tranquilo, sabiendo que al día siguiente podrá preparar su desayuno en casa y encontrar las mudas de ropa para realizar su actividad. ~Llevamos en el mercado cruceño dos años de vida, con muchas experiencias positivas y clientes satisfechos, aprendiendo día a día para poder dar un mejor servicio y escuchando las necesidades de nuestros clientes.",
+    "image": ""
+  },
+  "servicios": {
+    "title": "Nuestros servicios",
+    "text": [
+      "Mudanzas urbanas de casas y oficinas.",
+      "(preembalaje, transporte y estibaje)",
+      "Alquiler de furgones.",
+      "Alquiler de cisternas.",
+      "Distribución de productos.",
+      "Transporte de muebles y/o carga."
+    ],
+    "image": ""
+  }
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head lang="es">
+	<meta charset="utf8">
+	<title>ADMIN</title>
+</head>
+<body>
+	<fieldset>
+	<legend>Administración</legend>
+	<h4 id="error"></h4>
+		<!-- <form id="form" action=""> -->
+			<fieldset>
+				<legend>Empresa</legend>
+				<label>Título</label><br>
+				<input type="text" id="titEmp" name="titEmp" maxlength="35" /><br>
+				<label>Texto</label><br>
+				<textarea id="txtEmp" maxlength="610" rows="11" cols="58"></textarea><br>
+				<label>Imagen</label><br>
+				<input type="file" id="fileEmp" />
+			</fieldset>
+			<fieldset>
+				<legend>Compromiso</legend>
+				<label>Título</label><br>
+				<input type="text" id="titComp" name="titComp" /><br>
+				<label>Texto</label><br>
+				<textarea id="txtCopm" maxlength="610" rows="11" cols="58"></textarea><br>
+				<label>Imagen</label><br>
+				<input type="file" id="fileComp" />
+			</fieldset>
+			<fieldset>
+				<legend>Servicios</legend>
+				<label>Título</label><br>
+				<input type="text" id="titServ" name="titServ" /><br>
+				<label>Texto</label><br>
+				<textarea id="txtServ" maxlength="610" rows="11" cols="58"></textarea><br>
+				<label>Imagen</label><br>
+				<input type="file" id="fileServ" />
+			</fieldset>
+			<button id="send">Enviar</button>
+		<!-- </form> -->
+	</fieldset>
+
+	<script type="text/javascript" src="./javascripts/jquery.js"></script>
+	<script type="text/javascript" src="./javascripts/main.js"></script>
+</body>
+</html>
